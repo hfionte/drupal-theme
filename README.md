@@ -5,11 +5,9 @@ Base Drupal Theme
 
 2) Rename clientname.info and edit to use the correct client name.
 
-3) Edit html.tpl.php to replace all instances of "clientname".
+3) Revise page.tpl.php to work for your specific layout. (Currently this file is identical to the original version pulled from modules/system/)
 
-4) Revise page.tpl.php to work for your specific layout. (Currently this file is identical to the original version pulled from modules/system/)
-
-5) Upload into sites/all/themes/
+4) Upload into sites/all/themes/
 
 
 Additional Information:
